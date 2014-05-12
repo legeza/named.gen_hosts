@@ -7,7 +7,7 @@ Originally script was written to solve an annoying problem with one legacy appli
 
 Nowadays it uses to perform automated tests of inbound changes for:
  * Missing **A** record for an **CNAME**.
- * External **CNAME**s existence.
+ * External **CNAME** existence.
  * Missing files.
  * Inclusion loops.
 
